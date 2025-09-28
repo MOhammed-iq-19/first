@@ -1,0 +1,23 @@
+/* div {
+    background-color: rgb(27, 36, 84);
+} */
+body {
+    font-family: 'Arial', sans-serif;
+    /* margin: 0;
+    padding: 0;
+    color: bisque; */
+    background-color: #202040;
+    /* color: #030202; */
+} 
+.MESSI {
+    color: rgba(145, 175, 239, 0.82);
+    margin: auto;
+}
+hr{
+    background-color: #2e4a62;
+}
+.logo {
+    width: 20%;
+    height: 20%;
+    display: line-height ;
+}

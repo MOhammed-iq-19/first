@@ -1,0 +1,110 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 20vh;
+}
+body {
+  background: linear-gradient(to right, #093054, #1e2c82d6);
+}
+li {
+  display: inline;
+  position: relative;
+  font-size: 33px;
+  word-spacing: 20px;
+  top: 15px;
+  cursor: pointer;
+  color: #ffffff;
+}
+ul {
+  position: fixed;
+  background-color: #004d98;
+  background: linear-gradient(to right, #004d98, #a50044);
+  margin-left: -8px;
+  margin-top: -18px;
+  padding-left: 20px;
+  width: 100%;
+  height: 73px;
+  display: block;
+  box-shadow: inset 20px 6px 20px 7px #110559ba, -1px -3px 8px 9px #1e1e52;
+}
+.libal {
+  position: fixed;
+  margin: 0;
+  display: block;
+}
+.logo {
+  position: relative;
+  top: -70px;
+  z-index: 22;
+}
+.Messi {
+  display: inline;
+  padding: 0%;
+  margin-right: 12px;
+  color: #ffffff;
+  text-decoration: none;
+  text-shadow: 0px 3px 8px #ffffff;
+  text-shadow: 0px 0px 5px #d5eafc;
+}
+.years {
+  color: #ffffff;
+  text-decoration: none;
+  text-shadow: 0px 3px 8px #ffffff;
+  text-shadow: 0px 0px 5px #d5eafc;
+}
+.tiat {
+  display: block;
+  text-align: center;
+  -webkit-text-stroke: thin;
+  color: #ffffff;
+  text-shadow: 0px -2px 11px #ffffff, -1px 1px 20px #ffffff;
+  letter-spacing: 5px;
+}
+.dscrb {
+  border: 5px solid #522134e0;
+  display: block;
+  background-color: #8a1d37;
+  height: auto;
+  border-radius: 0 29px;
+  box-shadow: 7px 9px 9px 0px #16373b, inset -4px -17px 20px 2px #6e1b1b,
+    inset 20px -1px 20px 2px #5b0d1c;
+  color: #f4fffd;
+  /* color: #ffd700; */
+  font-family: math;
+  font-size: 19px;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.y9 {
+  display: block;
+  text-align: center;
+  -webkit-text-stroke: thin;
+  color: #ffffff;
+  text-shadow: 0px -2px 7px #ffffff, -1px 1px 20px #ffffff;
+  letter-spacing: 5px;
+  font-size: 35px;
+  font-style: inherit;
+  margin-top: -5px;
+}
+table {
+  border: 6px solid #1653a8;
+  margin: auto;
+  border-collapse: collapse;
+  width: 621px;
+  height: 278px;
+  /font-family: emoji;
+  letter-spacing: 2px;
+  font-size: larger;
+  box-shadow: 6px 4px 15px 4px #153983, 7px 8px 20px 2px #03a9f4;
+  -webkit-text-stroke: #000e5480 thin;
+  border-radius: 9px;
+}
+th {
+  border: 5px solid #1653a8;
+  background-color: #788793;
+}
+td {
+  background-color: #a6efef;
+  border: 5px solid #2c6fba;
+  color: #1a0065;
+}
